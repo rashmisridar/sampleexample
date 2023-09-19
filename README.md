@@ -1,4 +1,4 @@
-# sampleexample
+# Using github action distribute the app in the firebase app distribution
 
 A new Flutter project.
 

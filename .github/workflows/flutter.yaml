@@ -31,5 +31,5 @@ jobs:   #here we specify the jobs - We could have multiple jobs
         with:
           appId: 1:110232948737:android:dfd8384d0cf07240df7000
           serviceCredentialsFileContent: ${{secrets.CREDENTIAL_FILE_CONTENT}}
-          groups: sparrow_team
+          groups: internaltesting
           file: build/app/outputs/flutter-apk/app-debug.apk

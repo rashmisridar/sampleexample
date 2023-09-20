@@ -20,7 +20,7 @@ jobs:   #here we specify the jobs - We could have multiple jobs
           java-version: '17'
       - uses: subosito/flutter-action@v2
         with:
-          channel: 'stable'
+          flutter-version: '3.10.3'
 
       - name: Build Gradle
       #     run: flutter build apk --debug

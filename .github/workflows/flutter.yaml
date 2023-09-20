@@ -44,6 +44,6 @@ jobs:
         uses: wzieba/Firebase-Distribution-Github-Action@v1
         with:
           appId: 1:110232948737:android:dfd8384d0cf07240df7000
-          serviceCredentialsFileContent: build/app/outputs/flutter-apk/app-debug.apk
+          serviceCredentialsFileContent: /Users/sevenbits/Downloads/gitactionfirebasedistribution-2e2965c0e523.json
           groups: internaltesting
           file: build/app/outputs/flutter-apk/app-debug.apk

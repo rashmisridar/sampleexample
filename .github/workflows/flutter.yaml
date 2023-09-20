@@ -1,4 +1,4 @@
-name: Flutter
+name: flutter
 
 on:  #events (push and pull_request)
   push:

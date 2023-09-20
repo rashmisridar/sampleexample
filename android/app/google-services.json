@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110232948737",
+    "project_id": "gitactionfirebasedistribution",
+    "storage_bucket": "gitactionfirebasedistribution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110232948737:android:dfd8384d0cf07240df7000",
+        "android_client_info": {
+          "package_name": "com.example.sampleexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8U9iIR6NJ87tDMd4jpPFa_Bdj_yJ1RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

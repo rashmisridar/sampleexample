@@ -13,6 +13,10 @@ jobs:   #here we specify the jobs - We could have multiple jobs
 
     steps:
       - uses: actions/checkout@v2
+      - name: Set up Node.js
+          uses: actions/setup-node@v2
+          with:
+            node-version: 16
       - name: set up JDK 11
         uses: actions/setup-java@v3
         with:

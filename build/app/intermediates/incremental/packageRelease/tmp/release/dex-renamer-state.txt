@@ -1,4 +1,0 @@
-#Thu Sep 21 15:34:55 IST 2023
-base.0=/Users/sevenbits/Documents/effective_flutter_dev/sampleexample/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
